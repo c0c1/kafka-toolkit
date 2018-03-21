@@ -7,4 +7,3 @@ $ cd $GOPATH/src/kafka-toolkit
 $ go build producer.go
 $ go build consumer.go
 ```
-# kafka-toolkit
