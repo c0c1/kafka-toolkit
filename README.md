@@ -22,7 +22,6 @@ Usage of ./consumer:
     	Session Timeout (default 60000)
   -t string
     	Topic (default "test")
-➜  kafka-toolkit git:(master) ✗ ./consumer -
 ➜  kafka-toolkit git:(master) ✗ ./producer --help
 Usage of ./producer:
   -b string
